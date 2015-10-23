@@ -148,7 +148,7 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 
 
 /* 08 HEADER */
-.header 				{float:left;width:100%;background:#fff;height:80px;}
+.header 				{float:left;width:100%;background:black;height:80px;}
 .header > .wrap		{display:table;height:80px;}
 .logo					{display:table-cell;vertical-align:middle;padding:5px 0;}
 .main-nav 						{float:right;font-size:14px;text-transform:uppercase;position:relative;}
@@ -184,7 +184,7 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .home .main 				{padding:0;}
 .home .advanced-search 	{margin:0;}
 
-.intro 					{background:url(http://placehold.it/1920x1440) 50% 0 fixed no-repeat;height:100vh;overflow:hidden;}
+.intro 					{background-image: url(../images/1.jpg);height:100vh;overflow:hidden;}
 .intro .textwidget		{color:#fff;padding-top:24%;text-align:center;}
 .intro .textwidget h1 	{text-transform:uppercase;font-size:61px;margin:0 0 -5px;}
 .intro .textwidget h2 	{text-transform:uppercase;font-size:23px;margin:0;}
@@ -204,7 +204,7 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .partners 	{float:left;width:100%;padding:48px 0 30px;}
 .partners h2	{text-transform:uppercase;font-size:30px;padding:0 0 40px;}
 
-.testimonials 			{float:left;width:100%;background:url(../images/testimonials.png) 50% 100% no-repeat;overflow:hidden;color:#fff;padding:90px 0 70px;}
+.testimonials 			{float:left;width:100%;background:url(../images/testimonials.jpg);overflow:hidden;color:#fff;padding:90px 0 70px;}
 .testimonials h6			{text-transform:uppercase;position:relative;font-size:39px;color:#fff;}
 .testimonials h6:before	{content:"";width:41px;height:29px;}
 .testimonials p 			{padding:0 20% 30px;font-size:16px;font-weight:500;color:#fff;}
