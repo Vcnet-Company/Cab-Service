@@ -153,12 +153,12 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .logo					{display:table-cell;vertical-align:middle;padding:5px 0;}
 .main-nav 						{float:right;font-size:14px;text-transform:uppercase;position:relative;}
 .main-nav ul > li					{float:left;display:block;padding:30px 0 30px 30px;position:static;}
-.main-nav ul > li > a 				{color:#858585;border-radius:0;position:relative;}
+.main-nav ul > li > a 				{color:rgb(204, 152, 34);border-radius:0;position:relative;}
 .main-nav ul > li.active > a, 
 .main-nav ul > li.active > a:hover, 
 .main-nav ul > li.active > a:focus,
 .main-nav ul > li:hover > a,
-.main-nav ul > li:focus > a				{color:#191F26;}
+.main-nav ul > li:focus > a				{color:#EBEBEB;}
 
 .main-nav li:hover > ul 		{display:block;}
 .main-nav ul ul   				{display:none;position: absolute; top: 100%;margin-left:-10px;min-width:200px;background:#fff;-webkit-box-shadow:4px 6px 8px 0 rgba(0, 0, 0, 0.15);-moz-box-shadow:4px 6px 8px 0 rgba(0, 0, 0, 0.15);box-shadow:4px 6px 8px 0 rgba(0, 0, 0, 0.15);-webkit-border-radius:0 0 3px 3px;-moz-border-radius:0 0 3px 3px;border-radius:0 0 3px 3px;z-index:9999;-webkit-transition: all .3s ease .15s;-moz-transition: all .3s ease .15s;-o-transition: all .3s ease .15s;-ms-transition: all .3s ease .15s;transition: all .3s ease .15s;}
@@ -205,9 +205,9 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .partners h2	{text-transform:uppercase;font-size:30px;padding:0 0 40px;}
 
 .testimonials 			{float:left;width:100%;background:url(../images/testimonials.jpg);overflow:hidden;color:#fff;padding:90px 0 70px;}
-.testimonials h6			{text-transform:uppercase;position:relative;font-size:39px;color:#fff;}
+.testimonials h6			{text-transform:uppercase;position:relative;font-size:39px;color:#CC9822;}
 .testimonials h6:before	{content:"";width:41px;height:29px;}
-.testimonials p 			{padding:0 20% 30px;font-size:16px;font-weight:500;color:#fff;}
+.testimonials p 			{padding:0 20% 30px;font-size:16px;font-weight:500;color:aliceblue;}
 .testimonials .meta 		{font-size:16px;}
 .testimonials.white h6,
 .testimonials.white p		{color:#191F26;}
@@ -502,7 +502,7 @@ blockquote:before			{content:"";width:41px;height:29px;}
 /* 21 FOOTER */
 .footer 			{float:left;width:100%;min-height:300px;color:#fff;padding-top:33px;}
 .footer article 	{min-height:170px;}
-.footer p 		{font-weight:500;}
+.footer p 		{font-weight:500;text-align: justify;}
 
 .footer .contact-data 			{padding:10px 0 3px;white-space:nowrap;}
 .footer .contact-data a 			{color:#fff;}
